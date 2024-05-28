@@ -8,5 +8,3 @@
 - 🚀 When I'm bored or in my free time, I work on **Python projects**
 
 - 🔥 Upcoming Repositories : **idk**
-
-- My discord server: discord.gg/USZN78mZpD (join pls)
